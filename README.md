@@ -17,5 +17,5 @@ git submodule add https://github.com/dlech/typings-rubicon-objc.git typings/rubi
 ```
 
 ```shell
-git subtree add --prefix typings/rubicon/objc https://github.com/dlech/typings-rubicon-objc
+git subtree add --prefix typings/rubicon/objc https://github.com/dlech/typings-rubicon-objc main
 ```
